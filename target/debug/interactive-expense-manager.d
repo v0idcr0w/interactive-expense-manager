@@ -1,0 +1,1 @@
+C:\Users\xd_mo\OneDrive\Documents\Projects\Rust\interactive-expense-manager\target\debug\interactive-expense-manager.exe: C:\Users\xd_mo\OneDrive\Documents\Projects\Rust\interactive-expense-manager\src\main.rs
